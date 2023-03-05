@@ -10,10 +10,10 @@ ShipSaaS utimate goal is become everybody helpful & reliable companion.
 
 ## Our Works
 
-- Ready: Core functionalities for any kind of Products (including awesome helper & libraries), 🔋🔋🔋
-- DevFlag: Enabling your Application development to follow the CI/CD best practice (Small PRs rock) 🚀
-- CurrencyFX: Get FX rates from multiple online services. 🔋🔋🔋.
-- SafeDispatcher: Ensure your "failed to dispatch" msgs will be fully stored, tracked and retryable 📰
+- 🏃‍♂️ Ready: Core functionalities for any kind of Products (including awesome helper & libraries), 🔋🔋🔋
+- 🏁 DevFlag: Enabling your Application development to follow the CI/CD best practice (Small PRs rock) 🚀
+- 💰 CurrencyFX: Get FX rates from multiple online services. 🔋🔋🔋.
+- ❇️ SafeDispatcher: Ensure your "failed to dispatch" msgs will be fully stored, tracked and retryable 📰
 - ... and more coming soon
 
 ## Our Cores & Conventions
