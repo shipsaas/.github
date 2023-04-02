@@ -20,8 +20,9 @@ ShipSaaS utimate goal is become everybody helpful & reliable companion.
 ## Our Cores & Conventions
 
 - PHP is running in our veins. We mostly focus on Laravel framework.
-- Unit Testing & High Coverage (85%+) is a must.
+- Unit/Integration Testing & High Coverage (85%+) is a must.
 - Empower your products.
+- Bring the stability, reliability scalability to your apps.
 - Safe your time and love your life.
 
 Ship your SaaS now!
