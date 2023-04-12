@@ -15,6 +15,7 @@ ShipSaaS utimate goal is become everybody helpful & reliable companion.
 - ❇️ SafeDispatcher: Ensure your "failed to dispatch" msgs will be fully stored, tracked and retryable 📰
 - 🚃 Priority Queue: Manage your queued messages effectively by prioritizing them 🔋🔋🔋
 - 💰 CurrencyFX: Get FX rates from multiple online services 🔋🔋🔋.
+- ❌ NeverThrow: Response-first over Throw in OOP applications. Best practices and reduce PROD errors/bugs.
 - ... and more coming soon
 
 ## Our Cores & Conventions
