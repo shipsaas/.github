@@ -16,6 +16,7 @@ ShipSaaS utimate goal is become everybody helpful & reliable companion.
 - 🚃 Priority Queue: Manage your queued messages effectively by prioritizing them 🔋🔋🔋
 - 💰 CurrencyFX: Get FX rates from multiple online services 🔋🔋🔋.
 - ❌ NeverThrow: Response-first over Throw in OOP applications. Best practices and reduce PROD errors/bugs.
+- ⚓️ DocKing: ready-to-use microservice to manage document templates and render/export PDF 🧾
 - ... and more coming soon
 
 ## Our Cores & Conventions
