@@ -10,13 +10,15 @@ ShipSaaS's ultimate goal is to become everyone's helpful and reliable companion.
 
 ## Our Works
 
-- 🏃‍♂️ Ready: Core functionalities for any kind of Products (including awesome helper & libraries), 🔋🔋🔋.
+- 🏃‍♂️ Ready: Core functionalities for any kind of Products (including awesome helper & libraries), 🔋🔋🔋
 - 🏁 DevFlag: Enabling your Application development to follow the CI/CD best practice (Small PRs FTW) 🚀
 - ❇️ SafeDispatcher: Ensure your "failed to dispatch" msgs will be fully stored, tracked and retryable 📰
 - 🚃 Priority Queue: Handle your queued jobs effectively by prioritizing them 🔋🔋🔋
-- 💰 CurrencyFX: Get FX rates from multiple online services 🔋🔋🔋.
-- ❌ NeverThrow: Response-first over Throw in OOP applications. Best practices and reduce PROD errors/bugs.
+- 💰 CurrencyFX: Get FX rates from multiple online services 🔋🔋🔋
+- ❌ NeverThrow: Response-first over Throw in OOP applications. Best practices and reduce PROD errors/bugs 🥰
 - ⚓️ DocKing: ready-to-use microservice to manage document templates and render/export PDF 🧾
+- ✉️ Inbox: Ensure the ordering, uniqueness, and reliable handling of webhook requests 🦅
+- 🏇 Resource Reducer: optimizes your API endpoint responses by returning what consumers need, deferring execution, and no more BIG FAT JSON 😎
 - ... and more coming soon
 
 ## Our Cores & Conventions
