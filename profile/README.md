@@ -30,3 +30,11 @@ ShipSaaS's ultimate goal is to become everyone's helpful and reliable companion.
 - Save your time and love your life.
 
 Ship your SaaS now!
+
+## Hire us 😎💼
+
+With years of experience in multiple domains & industries (Fintech, education, etc.). We'll be happy to develop and skyrocket your products. 
+
+No more worries about scale, reliability, speed, & security. Let us handle that for you 😉
+
+Contact us via [team@shipsaas.tech](team@shipsaas.tech)
