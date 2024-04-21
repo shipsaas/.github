@@ -36,7 +36,7 @@ Ship your SaaS now!
 ![RenderPDF.io](https://github.com/shipsaas/docking/raw/main/.github/render-pdf-io.png)
 
 [RenderPDF.io](https://renderpdf.io) is a Render-PDF-as-a-Service that provides developer-friendly APIs 
-to render your HTML content to modern PDFs file sin seconds 😎.
+to render your HTML content to modern PDFs files in seconds 😎.
 
 All you have to do is get your API Key and send RenderPDF.io an API call 🚀, no infrastructure setup, no overhead and
 hassle-free integration 🔋.
