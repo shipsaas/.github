@@ -31,6 +31,18 @@ ShipSaaS's ultimate goal is to become everyone's helpful and reliable companion.
 
 Ship your SaaS now!
 
+## RenderPDF.io - Proudly presented by ShipSaaS
+
+![RenderPDF.io](https://github.com/shipsaas/docking/raw/main/.github/render-pdf-io.png)
+
+[RenderPDF.io](https://renderpdf.io) is a Render-PDF-as-a-Service that provides developer-friendly APIs 
+to render your HTML content to modern PDFs file sin seconds 😎.
+
+All you have to do is get your API Key and send RenderPDF.io an API call 🚀, no infrastructure setup, no overhead and
+hassle-free integration 🔋.
+
+Get your free API Key today: [Sign Up to RenderPDF.io](https://renderpdf.io)
+
 ## Hire us 😎💼
 
 With years of experience in multiple domains & industries (Fintech, education, etc.). We'll be happy to develop and skyrocket your products. 
